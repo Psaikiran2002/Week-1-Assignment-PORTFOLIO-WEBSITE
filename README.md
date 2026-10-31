@@ -21,7 +21,7 @@ Build a responsive, accessible personal portfolio website from my resume that pr
 ### Live Link
 https://claude.ai/artifact/PaxUasQpw8TKvK2kKNV4h4
 ### Git Hub Link
-t https://psaikiran2002.github.io/Week-1-Assignment-PORTFOLIO-WEBSITE/
+ https://psaikiran2002.github.io/Week-1-Assignment-PORTFOLIO-WEBSITE/
 
 ### Screenshots
 ![Portfolio home page](screenshots/portfolio-home.png)
