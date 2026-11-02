@@ -26,3 +26,12 @@ https://claude.ai/artifact/PaxUasQpw8TKvK2kKNV4h4
 ### Screenshots
 ![Portfolio home page](screenshots/portfolio-home.png)
 ![Portfolio mobile view](screenshots/portfolio-mobile.png)
+
+## About Author
+Author: P saikiran
+
+GitHub: @Psaikiran2002
+
+LinkedIn: https://www.linkedin.com/in/pilli-saikiran-500a61235
+
+Email: saikiran.reddi2002@gmail.com
